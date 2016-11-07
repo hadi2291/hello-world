@@ -1,2 +1,8 @@
 # hello-world
-hanya repository
+hai guys.
+
+ini hanya pertama menggunakan github. 
+
+Thanks. Kunjungannya..
+
+
